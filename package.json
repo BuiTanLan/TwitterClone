@@ -8,5 +8,9 @@
     "start": "node app.js"
   },
   "author": "Bui Tan Lan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
 }
